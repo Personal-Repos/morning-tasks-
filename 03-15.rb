@@ -1,5 +1,6 @@
 #! /usr/bin/env ruby
 
+# Solve Example 2
 array = [1, 0, 1, 1, 0, 1]
 sum = 0
 i = 0
